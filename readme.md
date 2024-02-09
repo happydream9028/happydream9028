@@ -1,4 +1,4 @@
-# Typescript / Tailwind CSS Expert
+# Typescript / TailwindCSS / Shopify Expert
 
 I am a Senior Software Engineer with expertise in JavaScript / TypeScript.
 
